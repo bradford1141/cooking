@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(255, 159, 204);
+    margin: 20px 350px;
+}
+p{
+text-align: text-align;
+font-weight: bold;
+font-family: 'Almarai', sans-serif;
+font-family: 'PT Serif', serif
+}
+p1{
+    font-family: 'PT Serif', serif;
+}
+
+section{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+header{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin: 25px;
+
+}
+
+header:hover{
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin: 25px;
+
+}
+
+
+h1{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+p2{
+    font-size: 30px;
+    margin:20px;
+}
+
+footer{
+    color: black;
+    text-align: center;
+}
