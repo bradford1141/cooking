@@ -1,0 +1,79 @@
+body{
+    background-color: lightgrey;
+}
+header{
+    background-color: darkolivegreen;
+}
+div{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+#content{
+    margin: 0 auto;
+}
+nav a{
+    text-align: center;
+    color: whitesmoke;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color: black;
+    color: lightslategray;
+}
+#hero-msg h1, h4{
+    text-align: center;
+    color: black;
+}
+.button-box{
+    text-align: center;
+}
+main section{
+    text-align: center;
+}
+#background{
+    height: 725px;
+    background-color: grey;
+}
+.book{
+    background-color: whitesmoke;
+    color: black;
+    text-decoration: none;
+}
+.join{
+    background-color: whitesmoke;
+    text-decoration: none;
+}
+.book:hover{
+    background-color: darkolivegreen;
+    color: black;
+}
+.join:hover{
+    background-color: darkolivegreen;
+    color: black;
+}
+.msg h2, p{
+    background-color: darkgrey;
+    color: black;
+}
+footer h3{
+    background-color: darkolivegreen;
+    color: black;
+    text-decoration: underline;
+}
+footer a{
+    color: black;
+    text-decoration: none;
+}
+footer a:hover{
+    color: lightslategray;
+    text-decoration: underline;
+}
+.home-title{
+    color: black;
+}
+.logo{
+    width: 80px;
+}
+.icon{
+    width: 80px;
+}
