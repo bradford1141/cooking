@@ -20,9 +20,12 @@ nav a:hover{
     background-color: black;
     color: lightslategray;
 }
-#hero-msg h1, h4{
+#hero-msg h1 h4{
     text-align: center;
     color: black;
+}
+#hero-msg{
+    text-align: center;
 }
 .button-box{
     text-align: center;
@@ -51,17 +54,17 @@ main section{
     background-color: darkolivegreen;
     color: black;
 }
-.msg h2, p{
-    background-color: darkgrey;
+.msg h2 p{
+    background-color: rgba(196, 153, 98, 0.801);
     color: black;
 }
 footer h3{
     background-color: darkolivegreen;
-    color: black;
+    color: whitesmoke;
     text-decoration: underline;
 }
 footer a{
-    color: black;
+    color: whitesmoke;
     text-decoration: none;
 }
 footer a:hover{
